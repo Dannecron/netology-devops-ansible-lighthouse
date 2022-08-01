@@ -1,0 +1,12 @@
+galaxy_info:
+  author: dannc
+  description: install web server and lighthouse
+  company: ""
+  license: BSD-3-Clause
+  min_ansible_version: "2.1"
+  platforms:
+    - name: EL
+      versions:
+        - all
+  galaxy_tags: []
+dependencies: []
