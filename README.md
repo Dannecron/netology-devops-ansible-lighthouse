@@ -1,7 +1,7 @@
 ansible-lighthouse
 =========
 
-Данный playbook устанавливает `lighthouse` (доступ через webserver `nginx`).
+Данная роль устанавливает `lighthouse` (доступ через webserver `nginx`).
 
 Requirements
 ------------
